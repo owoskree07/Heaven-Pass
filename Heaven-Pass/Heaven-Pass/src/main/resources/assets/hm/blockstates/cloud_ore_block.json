@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hm:block/cloud_ore_block" }
+  }
+}

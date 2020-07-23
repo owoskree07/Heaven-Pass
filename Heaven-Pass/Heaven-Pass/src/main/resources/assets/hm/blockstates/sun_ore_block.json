@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hm:block/sun_ore_block" }
+  }
+}
