@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "hm:cloud_ore_block"
+  },
+  "result": "hm:cloud_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

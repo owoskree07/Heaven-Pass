@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "sss",
+    "sas",
+    "aaa"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "hm:sunburst_ingot"
+    },
+    "a":
+    {
+      "item": "minecraft:air"
+    }
+  },
+  "result":
+  {
+    "item": "hm:sun_helmet",
+    "count": 1
+  }
+}

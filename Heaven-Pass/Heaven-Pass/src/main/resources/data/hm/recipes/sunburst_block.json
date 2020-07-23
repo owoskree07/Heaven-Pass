@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "hm:sunburst_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "hm:sunburst_block",
+    "count": 1
+  }
+}

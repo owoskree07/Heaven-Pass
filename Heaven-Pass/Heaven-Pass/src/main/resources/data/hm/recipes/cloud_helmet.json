@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "sss",
+    "sas",
+    "aaa"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "hm:cloud_ingot"
+    },
+    "a":
+    {
+      "item": "minecraft:air"
+    }
+  },
+  "result":
+  {
+    "item": "hm:cloud_helmet",
+    "count": 1
+  }
+}

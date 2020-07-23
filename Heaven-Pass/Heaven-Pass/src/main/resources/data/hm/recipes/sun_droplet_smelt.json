@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "hm:sun_ore_block"
+  },
+  "result": "hm:sun_droplet",
+  "experience": 1.0,
+  "cookingtime": 200
+}

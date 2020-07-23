@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "asa",
+    "asa",
+    "aca"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "hm:sunburst_ingot"
+    },
+    "c":
+    {
+      "item": "hm:cloud_ingot"
+    },
+    "a":
+    {
+      "item": "minecraft:air"
+    }
+  },
+  "result":
+  {
+    "item": "hm:sun_sword",
+    "count": 1
+  }
+}
