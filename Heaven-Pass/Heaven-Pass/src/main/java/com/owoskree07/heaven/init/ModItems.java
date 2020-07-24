@@ -69,16 +69,16 @@ public class ModItems {
             () -> new ArmorItem(ModArmorMaterial.SUN, EquipmentSlotType.FEET, new Item.Properties().group(ExampleMod.TAB)));
 
     public static final RegistryObject<ArmorItem> CLOUD_HELMET = ITEMS.register("cloud_helmet",
-            () -> new ArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.HEAD, new Item.Properties().group(ExampleMod.TAB)));
+            () -> new cloudArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.HEAD, new Item.Properties().group(ExampleMod.TAB)));
 
     public static final RegistryObject<ArmorItem> CLOUD_CHESTPLATE = ITEMS.register("cloud_chestplate",
-            () -> new ArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.CHEST, new Item.Properties().group(ExampleMod.TAB)));
+            () -> new cloudArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.CHEST, new Item.Properties().group(ExampleMod.TAB)));
 
     public static final RegistryObject<ArmorItem> CLOUD_LEGGINGS = ITEMS.register("cloud_leggings",
-            () -> new ArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.LEGS, new Item.Properties().group(ExampleMod.TAB)));
+            () -> new cloudArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.LEGS, new Item.Properties().group(ExampleMod.TAB)));
 
     public static final RegistryObject<ArmorItem> CLOUD_BOOTS = ITEMS.register("cloud_boots",
-            () -> new ArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.FEET, new Item.Properties().group(ExampleMod.TAB)));
+            () -> new cloudArmorItem(ModArmorMaterial.CLOUD, EquipmentSlotType.FEET, new Item.Properties().group(ExampleMod.TAB)));
 
 
     // Block Items
